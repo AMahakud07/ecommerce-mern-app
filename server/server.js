@@ -36,4 +36,6 @@ app.listen(PORT, () => {
 })
 
 
-//
+//PORT = 8080
+
+// MONGO_URL = mongodb+srv://study4abhishek:JcQj6S4LkVifXSWQ@cluster0.b61okuk.mongodb.net/ecommerce
